@@ -1,0 +1,1 @@
+console.log("haydi ya allah");
